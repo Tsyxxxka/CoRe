@@ -1,4 +1,4 @@
-# Four selected graph queries
+# Four representative graph queries
 
 This is a **single-threaded** query package including PageRank, BFS, DFS and Graph Coloring.
 
